@@ -4,7 +4,7 @@ public class PackManGame implements GamingConsole
 {
 	public void up()
 	{
-		System.out.println("Jump");
+		System.out.println("up");
 	}
 	
 	public void down()
